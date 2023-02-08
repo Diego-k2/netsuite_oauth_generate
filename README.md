@@ -35,3 +35,11 @@ console.log(getAuthorization(getConfig));
 ``` 
 Após feito isso basta você utilizar esse atributo Authorization em 
 um Fetch ou outro metodo de sua escolha.
+## Suporte
+
+Para suporte, mande um email para degosantosiva@gmail.com. Mande no assunto "Suporte Netsuite Restlet OAuth" e na mensagem a sua duvida com prints
+
+## Autores
+
+- [@Diego-k2](https://github.com/Diego-k2)
+
