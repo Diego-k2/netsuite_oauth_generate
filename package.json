@@ -11,5 +11,14 @@
   "license": "MIT",
   "dependencies": {
     "crypto": "^1.0.1"
-  }
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "suitescript",
+    "netsuite",
+    "oauth",
+    "restlet"
+  ]
+  
 }

@@ -2,6 +2,12 @@
 # Gerador de OAuth1.0 para Netsuite RestLet
 
 Esta lib é um gerador de header no padrão exigido no Netsuite RestLet. Para fazer integrações utilizando o Node.JS.
+## Instalação
+Faça a utilização da lib usando o comando: 
+```bash
+  npm install netsuite_generate_oauth
+```
+    
 ## Uso/Exemplos
 ```Javascript 
 import getAuthorization from "./index.js";
