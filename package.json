@@ -1,0 +1,15 @@
+{
+  "name": "netsuite_generate_oauth",
+  "version": "1.0.0",
+  "description": "Faça a geração do Header OAuth1.0 no padrão netsuite. Testado e funcionando para Restlets",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego-K2 (Diego Silva)",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
